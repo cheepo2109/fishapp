@@ -2,5 +2,6 @@
 ## Used technologies:
 1. React 
 2. Firebase
+3. 0Auth
 
 Based on the tutorial of Wes Bos 
